@@ -1,0 +1,25 @@
+[{
+    "image":"/source/索命梵音.jpg",
+    "audio":"/source/索命梵音.mp3",
+    "song":"索命梵音",
+    "album":"倩女幽魂2",
+    "singer":"黄霑",
+    "duration":"184",
+    "isLike":true
+},{
+    "image":"/source/美丽的神话.jpg",
+    "audio":"/source/美丽的神话.mp3",
+    "song":"美丽的神话",
+    "album":"神话主题曲",
+    "singer":"孙楠/韩红",
+    "duration":"292",
+    "isLike":false
+},{
+    "image":"/source/极乐净土.jpg",
+    "audio":"/source/极乐净土.mp3",
+    "song":"极乐净土",
+    "album":"约束-Promise code",
+    "singer":"GARNiDELiA",
+    "duration":"218",
+    "isLike":true
+}]
